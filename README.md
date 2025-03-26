@@ -1,3 +1,3 @@
 # Olá
 
-**Oi, sou apenasum estudante '-'**
+**Oi, sou apenas um estudante '-'**
